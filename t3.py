@@ -11,5 +11,4 @@ for i in range(side):
     for i in range(side):
         fd(50)
         lt(360/side)
-
 mainloop()

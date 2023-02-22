@@ -1,5 +1,8 @@
 import pgzrun
 
+WIDTH = 1000
+HEIGHT = 800
+
 box = Rect((50,50), (150, 100))
 box2 = Rect((600,50), (100,100))
 bvx = 4
